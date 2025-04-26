@@ -29,6 +29,6 @@ Durante los torneos, nuestro equipo trabajó en:
 
 ## 👥 Colaboradores
 
-- 👨‍💻 @18mgdev
-- 🧑‍💻 @javierquesadapajares
-- 👩‍💻 @rosloopez
+- 👨‍💻 [@18mgdev](https://github.com/18mgdev)
+- 🧑‍💻 [@javierquesadapajares](https://github.com/javierquesadapajares)
+- 👩‍💻 [@rosloopez](https://github.com/rosloopez)
